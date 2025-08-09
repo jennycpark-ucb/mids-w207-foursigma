@@ -11,7 +11,7 @@ Authors of Notebooks:
 | data_processing_dog_Ryan |  Ryan Castillo |
 | Model_1_Multiclass_Classification_v1_noAug_noAnnot.ipynb | Jenny Park |
 | Model_1_Multiclass_Classification_v1_AugmentedAnnotated.ipynb | Jenny Park |
-| eda_ Ryan | Ryan Castillo |
+| model_2_fullnn_ryan.ipynb | Ryan Castillo |
 | CNN_v2_annoated.ipynb | Lyn Wang|
 | CNN_v2_annoated_full.ipynb | Lyn Wang|
 | CNN_v2_annotated_sub_class.ipynb | Lyn Wang|
